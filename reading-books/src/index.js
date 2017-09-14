@@ -6,7 +6,8 @@ import App from
 // './hello-styled-components'
 // './ReactDesignPatternsAndBestPractices'
 // './buiding-a-responsive-grid-view'
-'./hello-leaflet'
+// './hello-leaflet'
+'./hello-react-network'
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
